@@ -12,11 +12,9 @@ Ideas for master theses / projects
 * [Visualizing High-Dimensional Space](https://experiments.withgoogle.com/ai/visualizing-high-dimensional-space)
  
 ## Master projects done 
-Title: Developing a visualisation tool for therapists
-Summary: a game app based on Luis's geo-metric framework, which is aimed to streamline and improve interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. 
-**This project was developed by Iskandaryan Ditsuhi (EM student) in the period Sep 2017 - Mar 2018**
-In collaboration with LABPSITEC
 
+### VISUALIZATION AND VISUAL ANALYTICS OF GEOSPATIAL DATA FOR PSYCHOLOGICAL TREATMENT
+*Summary*: a visualziation tool based on Luis's metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. In collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (EM student) in the period Sep 2017 - Mar 2018.
 
 ## Master project proposals 
 
