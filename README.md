@@ -18,3 +18,53 @@ Summary: a game app based on Luis's geo-metric framework, which is aimed to stre
 In collaboration with LABPSITEC
 
 
+## Master project proposals 
+
+*Title*: **Mental health app builder: a case study to battle addictions**
+*Hyphotesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
+depressive symptoms can be predicted with movement data remains yet unclear. 
+*Summary*: Location and movement patterns of a patient is a key resource for the treatment of mental disorders (e.g., depression, agoraphobia, gambling addictions, etc.). Surprisingly, even to date, psychologists mostly rely on pen and paper, asking the patient to meticulously write down their location, movement and habits. Despite the best intentions of the patient, such data is objective and incomplete. Furthermore, there is a temporal gap between (usually daily) data collection and data delivery and processing (usually during a weekly or bi-weekly session with the psychologist), and the treatment can thus only be adjusted/tailored to the data with the same delay.
+
+Using modern technologies, the cycle of data collection - data delivery - data processing/interpretation can be significantly improved. First, the use of mobile technologies (i.e., GPS, ubiquitous internet connectivity) allows to accurately track and store user’s location and trajectories, and also to interact, in real-time, with the user (i.e., notifications). Second, GIS technologies allow to analyse and interpret the obtained mobility data, and take appropriate actions (e.g., geo-fencing, trajectory analysis, etc.). Third, visualisation and visual analytics allows to visualise and interpret the data in such a way that it specifically support treatments of a mental disorder.
+
+The objective of this thesis is to develop a case study to test the GEOTEC's mental health app builder to treat addictions. This includes gathering and understanding the requirements of such an app, generating the app using the mental health app builder, adding new features - if needed - to the mental health app builder, testing the generated app with therapists (access to psychologists/therapists is available). 
+
+*Methods*: Location analysis, modelling, programming, 
+*Related work*: At GEOTEC, we developed a mental health app builder, a application generation framework accessible via a web interface, that allows health professionals to generate a mobile application for the treatment of a particular mental disorder. The framework therefore offers some basic geospatial building blocks (location tracking, trajectory recording, geo-fencing), communication building blocks (notifications) and a basic visualisation of collected data by therapists (map-based view). The framework has been successfully tested to build an app to treat depression.
+*Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
+
+*Title*: **How diverse are my routes? Small multiples visualisation of patient's trajectories**
+*Hyphotesis*: the diversity of trajectories can be a predictor of depressive symptoms. 
+*Summary*: The goal is to design and generate a innovative piece of visualisation in order to explore patients' routes based on small multiples. In general, mobility patterns and behaviour may inform therapists on the evolution of a patient. In this thesis, the aim is to characteristise mobility patterns based on an incide of diversity. How diverse are patient's route over the las week, or tow week. The students  will work on an improved version of small multiples (colored, annotations, interactive) as a way to visually compare routes over the past weeks, and determine the variability of the routes taken by patients. Small multiples might take the form of matrix, where each row refers to a patient, and each colum refers to a day. As a result, each cell contain a reprentea of the trajectory, with the aim to make explicit how diverse trajectories are. Resulting code will be integrated into an existing R library/package for innovative analysis and visualisation of trajectory data. Input data will be based on real experiments, collected through the GEOTEC's mental health app builder, In summary, the ultimate goal is to make it easy for everyone (therapists, etc) to understand movility patterns and behaviour visually. 
+
+*Related work*: [Visualise your Strava routes with R](https://www.r-bloggers.com/visualize-your-strava-routes-with-r/amp/); GEOTEC's metal health app builder.
+*Methods*: programming, data visualisation, visual analytics, trajectories, diversity index. 
+
+
+*Title*: **Conceptualisation of mobility neigbourhoods through the lens of bikers**
+*Hyphotesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
+*Summary*: Much research has put the focus on monitoring mobility behaviour in the sense of detecting differences in the mobility behaviour of distinct profiles of people (or types of transport modes). For example, locals and tourists move differently in a city, as each profile visits more frequently certain places and takes certain routes than the other. Or confronting taxis’ and private cars’ mobility. Assessing **where, when and how** a person travels and moves has been and is the aim of mobility behaviour. 
+
+However, there are different dimensions that make the detection and assessment of mobility behaviour difficult. Scale, for example. Sometimes, we want to study mobility behaviour at an individual level. Other times, we are interested in the aggregation, i.e. group level, to detect overall mobility patterns for urban planning purposes and sustainable mobility/transport policies. No focus, though, has been put in detecting whether a particular individual (or moving object) behaves differently from day to day in terms of mobility (due to new mobility habits, new travel routes, new transport modes, update street network, etc.). Mobility is a multi-dimensional phenomenon. When (temporal dimension), where (spatial dimension) and how (transport mode) are well-understood dimensions of mobility behaviour on past mobility studies. Yet, these dimensions have been studied/seen static because no attention has been put on the dynamics of mobility behaviour itself: why does behaviour change, what (and what not) triggers such changes, how long does that change endure, what impact this change produces, does this impact produce a local network effect to surrounding/nearby people or moving objects, does otherwise it produce a network effect at scale?, etc.
+
+The aim of the thesis is to take a fresh perspective to explore and conceptualise the dynamics of mobility behaviour change for the rpespective of bikers. Mobility behaviour is the result of a set of endogenous (internal) factors (speed, transport mode, etc.) and exogenous (external) factors (weather conditions, built environment, traffic conditions, road type, road conditions, etc.). Based on a replica of human senses (sight, hearing, taste, smell, and touch), the idea is to mimic **how bikers sense mobility and the environment**: sensing organs associated with each sense send information to our brains to help us understand and perceive the world around us. A way to characterise mobility and interaction with other moving objects may be based on the five human senses. 
+
+The focus of this work is to explain the effect that geographic distance (or speed, or visibility) has on bikers with respet to mobility interactions and, simultaneously, to understand the interplay between the endogenous and exogenous factors and their spatial context. As a result, a proof-of-concept tool to visually test (e.g. isochrone map/lines) the concept of mobility neigbourhoods from bikers's perspective will be produced. 
+
+*Related work*: 
+*Methods*: Theoretical approach, literature review, proof-of-concept 
+
+*Title*: **The geography of scholarly publications at UJI**
+*Hyphotesis*: Researcher's spatial position determines collaboration patterns 
+*Summary*: Scholarly publication is a key asset in university as it determines the degree of research, innovation and kwowledge achieved by an individual, group, and the entire institution. What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
+*Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
+*Methods*: Network analysis, intra-building and intra-department collaboration, mapping and clustering building-level data, Local indicators of spatial association (LISA), geo big data    
+
+*Title*: **EM GEOTEC and the World: 10-year traces of international students**
+*Hyphothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
+*Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
+*Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
+*Methods*: Network analysis, JavaScript programming, data visualisation, interactive adn reactive programming, temporal dimension
+
+
+
