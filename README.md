@@ -70,7 +70,7 @@ The focus of this work is to explain the effect that geographic distance (or spe
 
 *Methods*: Network analysis, intra-building and intra-department collaboration, mapping and clustering building-level data, Local indicators of spatial association (LISA), geo big data    
 
-###EM GEOTEC and the World: 10-year traces of international students
+### EM GEOTEC and the World: 10-year traces of international students
 *Hyphothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
 
 *Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
