@@ -38,14 +38,17 @@ The objective of this thesis is to develop a case study to test the GEOTEC's men
 
 ### How diverse are my routes? Small multiples visualisation of patient's trajectories
 *Hyphotesis*: the diversity of trajectories can be a predictor of depressive symptoms. 
+
 *Summary*: The goal is to design and generate a innovative piece of visualisation in order to explore patients' routes based on small multiples. In general, mobility patterns and behaviour may inform therapists on the evolution of a patient. In this thesis, the aim is to characteristise mobility patterns based on an incide of diversity. How diverse are patient's route over the las week, or tow week. The students  will work on an improved version of small multiples (colored, annotations, interactive) as a way to visually compare routes over the past weeks, and determine the variability of the routes taken by patients. Small multiples might take the form of matrix, where each row refers to a patient, and each colum refers to a day. As a result, each cell contain a reprentea of the trajectory, with the aim to make explicit how diverse trajectories are. Resulting code will be integrated into an existing R library/package for innovative analysis and visualisation of trajectory data. Input data will be based on real experiments, collected through the GEOTEC's mental health app builder, In summary, the ultimate goal is to make it easy for everyone (therapists, etc) to understand movility patterns and behaviour visually. 
 
 *Related work*: [Visualise your Strava routes with R](https://www.r-bloggers.com/visualize-your-strava-routes-with-r/amp/); GEOTEC's metal health app builder.
+
 *Methods*: programming, data visualisation, visual analytics, trajectories, diversity index. 
 
 
-*Title*: **Conceptualisation of mobility neigbourhoods through the lens of bikers**
+### Conceptualisation of mobility neigbourhoods through the lens of bikers
 *Hyphotesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
+
 *Summary*: Much research has put the focus on monitoring mobility behaviour in the sense of detecting differences in the mobility behaviour of distinct profiles of people (or types of transport modes). For example, locals and tourists move differently in a city, as each profile visits more frequently certain places and takes certain routes than the other. Or confronting taxis’ and private cars’ mobility. Assessing **where, when and how** a person travels and moves has been and is the aim of mobility behaviour. 
 
 However, there are different dimensions that make the detection and assessment of mobility behaviour difficult. Scale, for example. Sometimes, we want to study mobility behaviour at an individual level. Other times, we are interested in the aggregation, i.e. group level, to detect overall mobility patterns for urban planning purposes and sustainable mobility/transport policies. No focus, though, has been put in detecting whether a particular individual (or moving object) behaves differently from day to day in terms of mobility (due to new mobility habits, new travel routes, new transport modes, update street network, etc.). Mobility is a multi-dimensional phenomenon. When (temporal dimension), where (spatial dimension) and how (transport mode) are well-understood dimensions of mobility behaviour on past mobility studies. Yet, these dimensions have been studied/seen static because no attention has been put on the dynamics of mobility behaviour itself: why does behaviour change, what (and what not) triggers such changes, how long does that change endure, what impact this change produces, does this impact produce a local network effect to surrounding/nearby people or moving objects, does otherwise it produce a network effect at scale?, etc.
@@ -55,20 +58,26 @@ The aim of the thesis is to take a fresh perspective to explore and conceptualis
 The focus of this work is to explain the effect that geographic distance (or speed, or visibility) has on bikers with respet to mobility interactions and, simultaneously, to understand the interplay between the endogenous and exogenous factors and their spatial context. As a result, a proof-of-concept tool to visually test (e.g. isochrone map/lines) the concept of mobility neigbourhoods from bikers's perspective will be produced. 
 
 *Related work*: 
+
 *Methods*: Theoretical approach, literature review, proof-of-concept 
 
-*Title*: **The geography of scholarly publications at UJI**
+###The geography of scholarly publications at UJI
 *Hyphotesis*: Researcher's spatial position determines collaboration patterns 
+
 *Summary*: Scholarly publication is a key asset in university as it determines the degree of research, innovation and kwowledge achieved by an individual, group, and the entire institution. What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
+
 *Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
+
 *Methods*: Network analysis, intra-building and intra-department collaboration, mapping and clustering building-level data, Local indicators of spatial association (LISA), geo big data    
 
-*Title*: **EM GEOTEC and the World: 10-year traces of international students**
+###EM GEOTEC and the World: 10-year traces of international students
 *Hyphothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
-*Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
-*Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
-*Methods*: Network analysis, JavaScript programming, data visualisation, interactive adn reactive programming, temporal dimension
 
+*Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
+
+*Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
+
+*Methods*: Network analysis, JavaScript programming, data visualisation, interactive adn reactive programming, temporal dimension
 
 ## Others
 
