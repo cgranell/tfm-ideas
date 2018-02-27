@@ -20,7 +20,7 @@ In collaboration with LABPSITEC
 
 ## Master project proposals 
 
-*Title*: **Mental health app builder: a case study to battle addictions**
+### Mental health app builder: a case study to battle addictions
 
 *Hyphotesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
 depressive symptoms can be predicted with movement data remains yet unclear. 
@@ -36,7 +36,7 @@ The objective of this thesis is to develop a case study to test the GEOTEC's men
 *Related work*: At GEOTEC, we developed a mental health app builder, a application generation framework accessible via a web interface, that allows health professionals to generate a mobile application for the treatment of a particular mental disorder. The framework therefore offers some basic geospatial building blocks (location tracking, trajectory recording, geo-fencing), communication building blocks (notifications) and a basic visualisation of collected data by therapists (map-based view). The framework has been successfully tested to build an app to treat depression.
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
 
-*Title*: **How diverse are my routes? Small multiples visualisation of patient's trajectories**
+### How diverse are my routes? Small multiples visualisation of patient's trajectories
 *Hyphotesis*: the diversity of trajectories can be a predictor of depressive symptoms. 
 *Summary*: The goal is to design and generate a innovative piece of visualisation in order to explore patients' routes based on small multiples. In general, mobility patterns and behaviour may inform therapists on the evolution of a patient. In this thesis, the aim is to characteristise mobility patterns based on an incide of diversity. How diverse are patient's route over the las week, or tow week. The students  will work on an improved version of small multiples (colored, annotations, interactive) as a way to visually compare routes over the past weeks, and determine the variability of the routes taken by patients. Small multiples might take the form of matrix, where each row refers to a patient, and each colum refers to a day. As a result, each cell contain a reprentea of the trajectory, with the aim to make explicit how diverse trajectories are. Resulting code will be integrated into an existing R library/package for innovative analysis and visualisation of trajectory data. Input data will be based on real experiments, collected through the GEOTEC's mental health app builder, In summary, the ultimate goal is to make it easy for everyone (therapists, etc) to understand movility patterns and behaviour visually. 
 
