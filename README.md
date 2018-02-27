@@ -67,4 +67,57 @@ The focus of this work is to explain the effect that geographic distance (or spe
 *Methods*: Network analysis, JavaScript programming, data visualisation, interactive adn reactive programming, temporal dimension
 
 
+## Others
+
+Title: **New interfaces for spatial operators for kids**
+Summary: Kids and young people are increasingly being accustomed to map-based interfaces. Even though they can do basic map interactions such as pan, zoom in, zoom out, and locate landmarks, to understand the use and need of spatial operator is still challenging. The topic aims to design and implement a new way to make the semantics and usage of spatial operators understandable and easy to use for kind and young people. 
+Status: pending
+
+Title: **Location-based services via street name signs**
+Summary: Visitors in cities do not have sometimes GPS connections nor paper maps. An alternative idea can be to use street name signs as proxy for location-based services. Lost users an take a picture of the closer street name sign and the system is able perform spatial services according to the user's location. The underlying idea is to connect both worlds, real and virtual, to solve a problem. This is referred in the literature as "Blended Spaces"
+Status: pending
+Related work: Paulo Dias Almeida et al, 2016. [Where the streets Have known Names](https://link.springer.com/chapter/10.1007/978-3-319-42089-9_1), with the idea to VR/AR with schoolchildren for education purpose labelled as "Know uyour city through explorign street names"
+
+Title: **Geoproximity for unemployment (young) people** 
+Summary: Imagine a jobless person strolling the city. As he is approaching to a place (employer) offering a job, he is prompted with the job offer. The employers can create a job add by simply sending a message (twitter, whatup). The idea is to add some value to the traditional “waiter wanted” sign hold on the door.
+Status: pending
+
+Title: **Activity maps**
+Summary: Creation of on-demand, personalised maps in function of the actual activity (and/or emotion) one is doing (and/or feeling). That is, producing customised maps on the fly for runners, walkers, drivers, bikers, etc..
+Status: pending
+
+Title: Something with new IoT sensors "particles" (The ones Alberto is using)
+....
+Status: pending
+
+Title: **Tangible programming with IoT sensors "particles"**
+Summary: Inspired by [projectbloks](https://projectbloks.withgoogle.com/), the idea is to use physical blocks or bricks augmented with small IoT sensors to program. The physical combination of blocks will be translated into actual code (i.e. sketch ). Could spatial operators be represented and combined using tangible blocks?
+Status: pending
+
+Title: **Users able to process** 
+Summary: Over the last few years, the world has gradually transformed from an expensive, slow, focused, planned and conducted collection of data by an ad hoc, massive, unplanned data collection carried out by anyone, at any time and wherever. This transition is exemplified by the decadence of Geographic Information Systems (GIS) until relatively recently in favour of the dominating concept of Volunteered Geographic Information (VGI). Nevertheless, the processing or analysis had always been beyond the reach of citizens. What we pursue is to democratize the ability of processing spatial data among the large public, educate on spatial operators and on the critical skill of undertanding how data is transformed. Just as VGI has done with the production of data, we want citizens be able to choose how and when they process their data.
+Status: pending
+
+
+Title: **Georreferencing scholarly publications at UJI** 
+Summary: To investigate distinct ways to georreference a research paper (title, keyworks, content, auuthors' affiliation) and create a visualisation tool to support visual analytics 
+Related work: [GEOUP4](http://revistes.upc.edu/geoup4)
+Status: pending
+Methods: NLP, programming, web mapping, research data, visual clustering
+
+
+Title: Research reusability and the Geosciences
+Summary: This is related to the ongoing effort to define RR for the Geosciences. In particular, I would be interested in working on the the interpretastion of VGI and reproducibilty in the concext of advancing science when user-generated data is beaing used for reserach. There are important qu that remain open in the interplay of the sporadic nature of VGI adn researh reproducibility. 
+Status: pending
+
+Title: One-time maps for crowdsourced knowledge base
+Summary: Based on the collaboration with Barbara Hoffer (See gdrive document)
+Status: pending
+
+Title: The geography of employability data
+Summary: Observator
+Status: pending
+
+LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
+
 
