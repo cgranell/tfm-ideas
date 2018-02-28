@@ -67,9 +67,11 @@ The focus of this work is to explain the effect that geographic distance (or spe
 
 *Hyphotesis*: Researcher's spatial position determines collaboration patterns. Do you work with your next door researchers? 
 
-*Summary*: Scholarly publication is a key indicator or variable for university decision makers as it determines to certain extent the degree of research, innovation and kwowledge achieved by an individual, group, and even the entire institution. 
+*Summary*: Scholarly publication is a key indicator or variable for university decision makers as it determines to certain extent the degree of research, innovation and kwowledge achieved by an individual, group, and even the entire institution. Rather than looking at scholarly publications as a metric to measure productive researchers or research groups, we attempt to expin schlart publica ttaken a spatial perspective. Relevant questions that are of interest in this thesis are: What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. 
 
-What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
+The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
+
+This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
 
 *Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
 
@@ -79,6 +81,9 @@ What is the role and relevance of an individual’s spatial position on a campus
 *Hyphothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
 
 *Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
+
+
+This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
 
 *Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
 
@@ -118,6 +123,9 @@ Status: pending
 
 Title: **Georreferencing scholarly publications at UJI** 
 Summary: To investigate distinct ways to georreference a research paper (title, keyworks, content, auuthors' affiliation) and create a visualisation tool to support visual analytics 
+
+This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+
 Related work: [GEOUP4](http://revistes.upc.edu/geoup4)
 Status: pending
 Methods: NLP, programming, web mapping, research data, visual clustering
@@ -132,7 +140,9 @@ Summary: Based on the collaboration with Barbara Hoffer (See gdrive document)
 Status: pending
 
 Title: The geography of employability data
-Summary: Observator
+Summary: University Observatory
+This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+ 
 Status: pending
 
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
