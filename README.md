@@ -63,10 +63,13 @@ The focus of this work is to explain the effect that geographic distance (or spe
 
 *Methods*: Theoretical approach, literature review, proof-of-concept 
 
-###The geography of scholarly publications at UJI
-*Hyphotesis*: Researcher's spatial position determines collaboration patterns 
+### The geography of scholarly publications at UJI
 
-*Summary*: Scholarly publication is a key asset in university as it determines the degree of research, innovation and kwowledge achieved by an individual, group, and the entire institution. What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
+*Hyphotesis*: Researcher's spatial position determines collaboration patterns. Do you work with your next door researchers? 
+
+*Summary*: Scholarly publication is a key indicator or variable for university decision makers as it determines to certain extent the degree of research, innovation and kwowledge achieved by an individual, group, and even the entire institution. 
+
+What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
 
 *Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
 
