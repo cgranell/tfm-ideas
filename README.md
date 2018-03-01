@@ -20,7 +20,7 @@ Ideas for master theses / projects
 
 ### Mental health app builder: a case study to battle addictions
 
-*Hyphotesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
+*Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
 depressive symptoms can be predicted with movement data remains yet unclear. 
 
 *Summary*: Location and movement patterns of a patient is a key resource for the treatment of mental disorders (e.g., depression, agoraphobia, gambling addictions, etc.). Surprisingly, even to date, psychologists mostly rely on pen and paper, asking the patient to meticulously write down their location, movement and habits. Despite the best intentions of the patient, such data is objective and incomplete. Furthermore, there is a temporal gap between (usually daily) data collection and data delivery and processing (usually during a weekly or bi-weekly session with the psychologist), and the treatment can thus only be adjusted/tailored to the data with the same delay.
@@ -35,7 +35,7 @@ The objective of this thesis is to develop a case study to test the GEOTEC's men
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
 
 ### How diverse are my routes? Small multiples visualisation of patient's trajectories
-*Hyphotesis*: the diversity of trajectories can be a predictor of depressive symptoms. 
+*Hypothesis*: the diversity of trajectories can be a predictor of depressive symptoms. 
 
 *Summary*: The goal is to design and generate one or more innovative piece(s) of visualisation in order to explore patients' routes. In general, mobility patterns and behaviour may inform therapists on the evolution of a patient. The idea is to characterise mobility patterns based on an index of diversity in order to respond the question: How diverse are patient's routes over the last week, or two weeks?. 
 
@@ -49,7 +49,7 @@ Resulting code will be integrated into an existing R library/package for innovat
 
 
 ### Conceptualisation of mobility neigbourhoods through the lens of bikers
-*Hyphotesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
+*Hypothesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
 
 *Summary*: Much research has put the focus on monitoring mobility behaviour in the sense of detecting differences in the mobility behaviour of distinct profiles of people (or types of transport modes). For example, locals and tourists move differently in a city, as each profile visits more frequently certain places and takes certain routes than the other. Or confronting taxis’ and private cars’ mobility. Assessing **where, when and how** a person travels and moves has been and is the aim of mobility behaviour. 
 
@@ -65,25 +65,24 @@ The focus of this work is to explain the effect that geographic distance (or spe
 
 ### The geography of scholarly publications at UJI
 
-*Hyphotesis*: Researcher's spatial position determines collaboration patterns. Do you work with your next door researchers? 
+*Hypothesis*: Researcher's spatial position determines collaboration patterns. Do you work with your next door colleague? 
 
-*Summary*: Scholarly publication is a key indicator or variable for university decision makers as it determines to certain extent the degree of research, innovation and kwowledge achieved by an individual, group, and even the entire institution. Rather than looking at scholarly publications as a metric to measure productive researchers or research groups, we attempt to expin schlart publica ttaken a spatial perspective. Relevant questions that are of interest in this thesis are: What is the role and relevance of an individual’s spatial position on a campus? And that of a reseach group?. 
+*Summary*: Scholarly publication is a key indicator or variable for university decision makers as it determines to certain extent the degree of research, innovation and knowledge achieved by an individual, group, and even the entire institution. Rather than looking at scholarly publications as a metric to measure productive researchers or research groups, we attempt to explain scholarly publication taken a spatial perspective. Relevant questions that are of interest in this thesis are: What is the role and relevance of an individual’s spatial position on a campus? And that of a research group?.  
 
-The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository), and in relation to the organizational structures in terms of institutional affiliation (faculty, department/institute, researcg group) and spatial configuration (building) , andpostiti inside the campus) over the last 5 or 10 years. This rtyo of wrk hasn been tradiatio acchacoiede totruy network theory. Te novelty of the theses is to complemnte network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting applicatio will take the form of a web-based Shiny application and R package.
+The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository) over the last 5 or 10 years, and in relation to the organisational structures in terms of institutional affiliation (faculty, department/institute, research group) and spatial configuration (building) inside the campus . This type of work has been traditionally explored through network theory. The novelty is to complement network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting application will take the form of a web-based Shiny application and R package.
 
-This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+This project is part of an is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
 
 *Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
 
 *Methods*: Network analysis, intra-building and intra-department collaboration, mapping and clustering building-level data, Local indicators of spatial association (LISA), geo big data    
 
 ### EM GEOTEC and the World: 10-year traces of international students
-*Hyphothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
+*Hypothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
 
 *Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
 
-
-This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+This project is part of an is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
 
 *Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
 
