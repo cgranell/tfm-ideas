@@ -43,7 +43,7 @@ A type of visualisation is small multiples. A student will work on an improved v
 
 Resulting code will be integrated into an existing R library/package for innovative analysis and visualisation of trajectory data. Input data will be based on real experiments, collected through the GEOTEC's mental health app builder, In summary, the ultimate goal is to make it easy for everyone (therapists, etc) to understand movility patterns and behaviour visually. 
 
-*Related work*: [Visualise your Strava routes with R](https://www.r-bloggers.com/visualize-your-strava-routes-with-r/amp/); GEOTEC's metal health app builder.
+*Related work*: [Visualise your Strava routes with R](https://www.r-bloggers.com/visualize-your-strava-routes-with-r/amp/); [GEOTEC's mental health app builder](https://geo-games-builder.firebaseapp.com/login).
 
 *Methods*: programming, data visualisation, visual analytics, trajectories, diversity index. 
 
@@ -78,7 +78,7 @@ This project is part of an is expected to contribute to a larger project called 
 *Methods*: Network analysis, intra-building and intra-department collaboration, mapping and clustering building-level data, Local indicators of spatial association (LISA), geo big data    
 
 ### EM GEOTEC and the World: 10-year traces of international students
-*Hypothesis*: Impact of EM GEOTEC is uniformently distributed over geographical areas/countries. 
+*Hypothesis*: Impact of EM GEOTEC is uniformly distributed over geographical areas/countries. 
 
 *Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
 
@@ -86,7 +86,7 @@ This project is part of an is expected to contribute to a larger project called 
 
 *Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
 
-*Methods*: Network analysis, JavaScript programming, data visualisation, interactive adn reactive programming, temporal dimension
+*Methods*: Network analysis, JavaScript programming, data visualisation, interactive and reactive programming, temporal dimension
 
 ## Others
 
