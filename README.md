@@ -150,6 +150,11 @@ This project is part of a larger project called **Atlas of UJI: 10 key  visualis
  
 Status: pending
 
+
+Title: Bike sharing scheme and tram/bus transport in Castellon 
+Summary: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes
+This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
