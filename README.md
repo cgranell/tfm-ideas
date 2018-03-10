@@ -164,6 +164,10 @@ Bike Lanes based on Sharing-Bikes' Trajectories. ACM
 SIGKDD International Conference on Knowledge Discovery
 and Data Mining (pp.1377-1386).
 
+Title: From place of residence to place of activity: spatiotemporal mapping of population density 
+Summary:
+Related: ENACT project (“ENhancing ACTivity and population mapping”), https://ec.europa.eu/jrc/en/publication/enhancing-activity-and-population-mapping-exploratory-research-project-interim-report
+
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
