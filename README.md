@@ -165,7 +165,10 @@ SIGKDD International Conference on Knowledge Discovery
 and Data Mining (pp.1377-1386).
 
 Title: From place of residence to place of activity: spatiotemporal mapping of population density 
-Summary:
+Summary: Population is a crucial variable for the social sciences, the geosciences, and for policy support in many domains. Yet, our knowledge of its spatial distribution is still nowadays very incomplete. Population is a temporally dynamic variable, with major shifts in its distribution occurring in daily and seasonal cycles, resulting in rapidly changing densities. While spatially detailed representations of residential population  maps can be used as proxies for night-time population distribution, the distribution of population for other time frames is practically unknown at almost every spatial scale.
+
+The location of population during the day is determined by the location of economic, social and leisure facilities which pull population off their residences, driving commuting flows and other forms of daily trips. Daytime population distribution thus varies greatly from night-time distribution, and it is much more challenging to infer.
+
 Related: ENACT project (“ENhancing ACTivity and population mapping”), https://ec.europa.eu/jrc/en/publication/enhancing-activity-and-population-mapping-exploratory-research-project-interim-report
 
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
