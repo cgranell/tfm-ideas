@@ -152,8 +152,17 @@ Status: pending
 
 
 Title: Bike sharing scheme and tram/bus transport in Castellon 
-Summary: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes
-This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+Summary: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes. The newly emergent and increasingly popular dockless bike sharing scheme provides new opportunities as well as challenges to non-motorised mobility studies. Because bikes
+are significantly more evenly distributed in urban spaces rather than only being available or having to be returned to docking stations. The spatiotemporal usage patterns and travel flows of dockless bikes are more complex to analyse compared with the more fixed docking station schemes. Existing studies of dockless bike sharing are very limited and have focused on the management of bike fleets (Palet al., 2017) or the planning of cycling infrastructures (Bao et al., 2017). This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+
+Pal, A., & Zhang, Y. (2017). Free-floating bike sharing: solving
+real-life largescale static rebalancing problems. Transportation
+Research Part C Emerging Technologies, 80, 92-116.
+
+Bao, J., He, T., Ruan, S., Li, Y., & Zheng, Y. (2017). Planning
+Bike Lanes based on Sharing-Bikes' Trajectories. ACM
+SIGKDD International Conference on Knowledge Discovery
+and Data Mining (pp.1377-1386).
 
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
