@@ -171,6 +171,9 @@ The location of population during the day is determined by the location of econo
 
 Related: ENACT project (“ENhancing ACTivity and population mapping”), https://ec.europa.eu/jrc/en/publication/enhancing-activity-and-population-mapping-exploratory-research-project-interim-report
 
+Title: Impact of the Tobler’s first law of geography (Tobler, 1970).
+Summary: Explore the literature works (1970-today) that reference or explicitly mention Tobler Law, and analyse their motives to do so, creating a network of influences of the Tobler law. What is the variability of impact of these principles?
+
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
