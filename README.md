@@ -1,5 +1,5 @@
 # tfm-ideas
-Ideas for master theses / projects
+Ideas for master theses / projects    
 
 ## Research lines
 * Spatial analysis of playability areas and socio-economic aspects
