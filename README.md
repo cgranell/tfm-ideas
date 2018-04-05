@@ -178,3 +178,4 @@ LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
 Title: Europeana - Platial analysis, processing and visualisation
+Summary: Andres' thesis?
