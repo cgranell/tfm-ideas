@@ -178,7 +178,7 @@ LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
 Title: Europeana - Platial analysis, processing and visualisation
-Summary: [Europeana Collections](https://www.europeana.eu/) provides access to over 50 million digitised items such as  books, music, artworks and more. It has a set fo [APIs](https://pro.europeana.eu/resources/apis) to build applications.
+Summary: [Europeana Collections](https://www.europeana.eu/) provides access to over 50 million digitised items such as  books, music, artworks and more. It has a set fo [APIs](https://pro.europeana.eu/resources/apis) to build applications. Based on a few, key use cases, the idea of the project is to explore the use and exploitation of Europeana Collection resources from the spatio-temporal perspective, to approach these resources to European citzens thorough easy-to-use applications. 
 
 Related: Andres' thesis?
 
