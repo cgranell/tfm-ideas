@@ -178,4 +178,7 @@ LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
 Title: Europeana - Platial analysis, processing and visualisation
-Summary: Andres' thesis?
+Summary: [Europeana Collections](https://www.europeana.eu/) provides access to over 50 million digitised items such as  books, music, artworks and more. It has a set fo [APIs](https://pro.europeana.eu/resources/apis) to build applications.
+
+Related: Andres' thesis?
+
