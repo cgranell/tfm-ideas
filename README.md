@@ -136,22 +136,22 @@ Status: pending
 Methods: NLP, programming, web mapping, research data, visual clustering
 
 
-Title: Research reusability and the Geosciences
+Title: **Research reusability and the Geosciences**
 Summary: This is related to the ongoing effort to define RR for the Geosciences. In particular, I would be interested in working on the the interpretastion of VGI and reproducibilty in the concext of advancing science when user-generated data is beaing used for reserach. There are important qu that remain open in the interplay of the sporadic nature of VGI adn researh reproducibility. 
 Status: pending
 
-Title: One-time maps for crowdsourced knowledge base
+Title: **One-time maps for crowdsourced knowledge base**
 Summary: Based on the collaboration with Barbara Hoffer (See gdrive document)
 Status: pending
 
-Title: The geography of employability data
+Title: **The geography of employability data**
 Summary: University Observatory
 This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
  
 Status: pending
 
 
-Title: Bike sharing scheme and tram/bus transport in Castellon 
+Title: **Bike sharing scheme and tram/bus transport in Castellon**
 Summary: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes. The newly emergent and increasingly popular dockless bike sharing scheme provides new opportunities as well as challenges to non-motorised mobility studies. Because bikes
 are significantly more evenly distributed in urban spaces rather than only being available or having to be returned to docking stations. The spatiotemporal usage patterns and travel flows of dockless bikes are more complex to analyse compared with the more fixed docking station schemes. Existing studies of dockless bike sharing are very limited and have focused on the management of bike fleets (Palet al., 2017) or the planning of cycling infrastructures (Bao et al., 2017). This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
 
@@ -164,21 +164,21 @@ Bike Lanes based on Sharing-Bikes' Trajectories. ACM
 SIGKDD International Conference on Knowledge Discovery
 and Data Mining (pp.1377-1386).
 
-Title: From place of residence to place of activity: spatiotemporal mapping of population density 
+Title: **From place of residence to place of activity: spatiotemporal mapping of population density**
 Summary: Population is a crucial variable for the social sciences, the geosciences, and for policy support in many domains. Yet, our knowledge of its spatial distribution is still nowadays very incomplete. Population is a temporally dynamic variable, with major shifts in its distribution occurring in daily and seasonal cycles, resulting in rapidly changing densities. While spatially detailed representations of residential population  maps can be used as proxies for night-time population distribution, the distribution of population for other time frames is practically unknown at almost every spatial scale.
 
 The location of population during the day is determined by the location of economic, social and leisure facilities which pull population off their residences, driving commuting flows and other forms of daily trips. Daytime population distribution thus varies greatly from night-time distribution, and it is much more challenging to infer.
 
 Related: ENACT project (“ENhancing ACTivity and population mapping”), https://ec.europa.eu/jrc/en/publication/enhancing-activity-and-population-mapping-exploratory-research-project-interim-report
 
-Title: Impact of the Tobler’s first law of geography (Tobler, 1970).
+Title: **Impact of the Tobler’s first law of geography (Tobler, 1970)**.
 Summary: Explore the literature works (1970-today) that reference or explicitly mention Tobler Law, and analyse their motives to do so, creating a network of influences of the Tobler law. In what application domanis is Tobler's first law of geography mention? What is the variability of the impact of this law?
 
 LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 
 
-Title: Europeana - Platial analysis, processing and visualisation
-Summary: [Europeana Collections](https://www.europeana.eu/) provides access to over 50 million digitised items such as  books, music, artworks and more. It has a set fo [APIs](https://pro.europeana.eu/resources/apis) to build applications. Based on a few, key use cases, the idea of the project is to explore the use and exploitation of Europeana Collection resources from the spatio-temporal perspective, to approach these resources to European citzens thorough easy-to-use applications. Much more elaborated work might be platial analysys, as opossed to well-known spatial analysis, to initiate a new research line on Place-based research (Andres' thesis?) realte to digital humanities/social science resources
+Title: **Europeana - Platial analysis, processing and visualisation**
+Summary: [Europeana Collections](https://www.europeana.eu/) provides access to over 50 million digitised items such as  books, music, artworks and more. It has a set fo [APIs](https://pro.europeana.eu/resources/apis) to build applications. Based on a few, key use cases, the idea of the project is to explore the use and exploitation of Europeana Collection resources from the spatio-temporal perspective, to approach these resources to European citzens thorough easy-to-use applications. Much more elaborated work might be platial analysys, as opossed to well-known spatial analysis, to initiate a new research line on Place-based research (Andres' thesis?) related to digital humanities/social science resources
 
 Related: [MDPI IJGI Special Issue "Place-Based Research in GIScience and Geoinformatics"](http://www.mdpi.com/journal/ijgi/special_issues/place-based); [MDPI IJGI Special Issue "Data Acquisition and Processing in Cultural Heritage"](http://www.mdpi.com/journal/ijgi/special_issues/Cultural_Heritage_IJGI)
 
