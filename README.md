@@ -14,7 +14,7 @@ Ideas for master theses / projects
 ## Master projects done 
 
 ### VISUALIZATION AND VISUAL ANALYTICS OF GEOSPATIAL DATA FOR PSYCHOLOGICAL TREATMENT
-*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. In collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (EM student) in the period Sep 2017 - Mar 2018, with the title "Visualization and visual analytics of geospatial data for psychological treatment". http://repositori.uji.es/xmlui/handle/10234/141145
+*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. In collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (EM student) in the period Sep 2017 - Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](https://run.unl.pt/handle/10362/33798). http://repositori.uji.es/xmlui/handle/10234/141145
 
 ## Master project proposals 
 
