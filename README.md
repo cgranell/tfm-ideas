@@ -204,5 +204,4 @@ NOTE: LOOK AT THE MAILBOX, TAGS TODO, TFM-Ideas, Project Ideas
 NOTE: Have a look at [selected projects from Visualizar 17 Migraciones](
 https://www.medialab-prado.es/en/news/visualizar17-migraciones-selected-projects-announced). Rewrite Altas of UJI's projects?
 
-Vi
 
