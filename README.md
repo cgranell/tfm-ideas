@@ -18,7 +18,7 @@ Ideas for master theses / projects
 
 
 ### Mental health app builder: a case study to battle addictions
-
+*EM Student*: Fanawani (Fana) Gebremeskel
 
 *Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
 depressive symptoms can be predicted with movement data remains yet unclear. 
@@ -36,7 +36,6 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 *Related work*: At GEOTEC, we developed a mental health app builder, a application generation framework accessible via a web interface, that allows health professionals to generate a mobile application for the treatment of a particular mental disorder. The framework therefore offers some basic geospatial building blocks (location tracking, trajectory recording, geo-fencing), communication building blocks (notifications) and a basic visualisation of collected data by therapists (map-based view). The framework has been successfully tested to build an app to treat depression.
 
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
-
 
 ## Master project proposals 
 
