@@ -16,9 +16,9 @@ Ideas for master theses / projects
 ### VISUALIZATION AND VISUAL ANALYTICS OF GEOSPATIAL DATA FOR PSYCHOLOGICAL TREATMENT
 *Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. In collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (EM student) in the period Sep 2017 - Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](https://run.unl.pt/handle/10362/33798). http://repositori.uji.es/xmlui/handle/10234/141145
 
-## Master project proposals 
 
 ### Mental health app builder: a case study to battle addictions
+
 
 *Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
 depressive symptoms can be predicted with movement data remains yet unclear. 
@@ -36,6 +36,9 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 *Related work*: At GEOTEC, we developed a mental health app builder, a application generation framework accessible via a web interface, that allows health professionals to generate a mobile application for the treatment of a particular mental disorder. The framework therefore offers some basic geospatial building blocks (location tracking, trajectory recording, geo-fencing), communication building blocks (notifications) and a basic visualisation of collected data by therapists (map-based view). The framework has been successfully tested to build an app to treat depression.
 
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
+
+
+## Master project proposals 
 
 ### How diverse are my routes? Innovative visualisations of human trajectories (small multiples)
 
