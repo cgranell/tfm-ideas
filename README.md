@@ -51,7 +51,7 @@ The aim of the thesis is to take a fresh perspective to explore and conceptualis
 
 The focus of this work is to explain the effect that geographic distance (or speed, or visibility) has on cyclists with respect to mobility interactions and, simultaneously, to understand the interplay between the endogenous and exogenous factors and their spatial context. As a result, a proof-of-concept tool to visually test (e.g. isochrone map/lines) the concept of mobility neighbourhoods from cyclists' perspective will be produced. 
 
-*Related work*: Literature on mobility, movement analysis, [thick mobility](thick) as mobility data (trajectories) can only mobilise people and change things when it becomes thick with social and contextual meaning.
+*Related work*: Literature on mobility, movement analysis, [thick mobility](thick) as mobility data (trajectories) can only mobilise people and change things when it becomes thick with social and contextual meaning. To link to Diego's open dataset of bicycle trips in cities.
 
 *Methods*: Theoretical approach, literature review, proof-of-concept 
 
