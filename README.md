@@ -198,6 +198,10 @@ Summary: [Europeana Collections](https://www.europeana.eu/) provides access to o
 
 Related: [MDPI IJGI Special Issue "Place-Based Research in GIScience and Geoinformatics"](http://www.mdpi.com/journal/ijgi/special_issues/place-based); [MDPI IJGI Special Issue "Data Acquisition and Processing in Cultural Heritage"](http://www.mdpi.com/journal/ijgi/special_issues/Cultural_Heritage_IJGI)
 
+
+Title: **New use acse of Blockchain in GISscience**
+
+
 NOTE: A system to collect, organise and classify papers about a theme. Related Siabato's works: Siabato et al  (2017) [An Annotated Bibliography on Spatiotemporal Modelling Trends](https://www.graphyonline.com/archives/archivedownload.php?pid=IJEES-135). Int J Earth Environ Sci 2: 135; and 
 Siabato et al (2014). [TimeBliography: A Dynamic and Online Bibliography on Temporal GIS](https://doi.org/10.1111/tgis.12080 ). T GIS 18(6): 799-816
 
