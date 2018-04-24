@@ -201,6 +201,8 @@ Related: [MDPI IJGI Special Issue "Place-Based Research in GIScience and Geoinfo
 
 Title: **New use acse of Blockchain in GISscience**
 
+Summary: Look at blckchain.md file in RR folder.
+
 
 NOTE: A system to collect, organise and classify papers about a theme. Related Siabato's works: Siabato et al  (2017) [An Annotated Bibliography on Spatiotemporal Modelling Trends](https://www.graphyonline.com/archives/archivedownload.php?pid=IJEES-135). Int J Earth Environ Sci 2: 135; and 
 Siabato et al (2014). [TimeBliography: A Dynamic and Online Bibliography on Temporal GIS](https://doi.org/10.1111/tgis.12080 ). T GIS 18(6): 799-816
