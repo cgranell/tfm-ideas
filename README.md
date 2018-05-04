@@ -199,7 +199,7 @@ Summary: [Europeana Collections](https://www.europeana.eu/) provides access to o
 Related: [MDPI IJGI Special Issue "Place-Based Research in GIScience and Geoinformatics"](http://www.mdpi.com/journal/ijgi/special_issues/place-based); [MDPI IJGI Special Issue "Data Acquisition and Processing in Cultural Heritage"](http://www.mdpi.com/journal/ijgi/special_issues/Cultural_Heritage_IJGI)
 
 
-Title: **New use acse of Blockchain in GISscience**
+Title: **New use case of Blockchain in GIScience**
 
 Summary: Look at blckchain.md file in RR folder.
 
