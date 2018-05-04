@@ -199,6 +199,11 @@ Summary: [Europeana Collections](https://www.europeana.eu/) provides access to o
 Related: [MDPI IJGI Special Issue "Place-Based Research in GIScience and Geoinformatics"](http://www.mdpi.com/journal/ijgi/special_issues/place-based); [MDPI IJGI Special Issue "Data Acquisition and Processing in Cultural Heritage"](http://www.mdpi.com/journal/ijgi/special_issues/Cultural_Heritage_IJGI)
 
 
+Title: Dynamics of mobility - Castellon
+
+Summary: Based on bicicas matrix data, create a simulation that show the among of trips between dodge stations 
+
+
 Title: **New use case of Blockchain in GIScience**
 
 Summary: Look at blckchain.md file in RR folder.
@@ -215,5 +220,7 @@ NOTE: Have a look at [selected projects from Visualizar 17 Migraciones](
 https://www.medialab-prado.es/en/news/visualizar17-migraciones-selected-projects-announced). Rewrite Altas of UJI's projects?
 
 NOTE: [ROpenSpain](https://ropenspain.es/)
+
+
 
 
