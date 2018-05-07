@@ -190,7 +190,7 @@ The location of population during the day is determined by the location of econo
 Related: ENACT project (“ENhancing ACTivity and population mapping”), https://ec.europa.eu/jrc/en/publication/enhancing-activity-and-population-mapping-exploratory-research-project-interim-report
 
 Title: **Impact of the Tobler’s first law of geography (Tobler, 1970)**.
-Summary: Explore the literature works (1970-today) that reference or explicitly mention Tobler Law, and analyse their motives to do so, creating a network of influences of the Tobler law. In what application domanis is Tobler's first law of geography mention? What is the variability of the impact of this law?
+Summary: Explore the literature works (1970-today) that reference or explicitly mention Tobler Law, and analyse their motives to do so, creating a network of influences of the Tobler law. In what application domanis is Tobler's first law of geography mention? What is the variability of the impact of this law? [Waldo R. Tobler](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399)
 
 Title: **Europeana - Platial analysis, processing and visualisation**
 
