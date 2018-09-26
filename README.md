@@ -35,27 +35,18 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
 
-### Bike sharing scheme and mobility  in Castellon
+### Mapping the real character of Castellón (meaningful clusters) though the lens of cycling flows and user-generated POIs 
 *EM Student*: Fabián Rodolfo Perotti (2017-2019 promotion), from Sep 2018 to Mar 2019
 
-*Summary*: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes. The newly emergent and increasingly popular dockless bike sharing scheme provides new opportunities as well as challenges to non-motorised mobility studies. Because bikes are significantly more evenly distributed in urban spaces rather than only being available or having to be returned to docking stations. The spatiotemporal usage patterns and travel flows of dockless bikes are more complex to analyse compared with the more fixed docking station schemes. Existing studies of dockless bike sharing are very limited and have focused on the management of bike fleets (Palet al., 2017) or the planning of cycling infrastructures (Bao et al., 2017). 
+*Hypothesis*: Urban boundaries derived from cycling flows and social POIs reflect better the socio-economic-mobility reality / character of Castellon than the artificial administrative units.
 
+*Summary*: This TFM is aimed to explore to what extent administrative units and emerging socio-economic-mobility clusters in Castellón are disconnected, taking as primary source flows of bike travels along with other urban data sources. Expected results are the identification and mapping of meaningful socio-economic-mobility clusters that better reflect the character of the city of Castellon.
 
-This master project is part of and is expected to contribute to a larger pproject called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
+*Context*: This project is part of and is expected to contribute to a larger project called **Where the UJIers go: 10 data visualisations to explain the impact of UJI**. This TFM is intended to find or formulate new questions about (social) pressing issues in urban contexts. Seeing a problem from the geographical dimension can help to understand it better and find novel ways to tackle it. This TFM should also embrace research reproducibility practices.
 
 *Methods*:
 
 *Related work*:
-Pal, A., & Zhang, Y. (2017). Free-floating bike sharing: solving
-real-life largescale static rebalancing problems. Transportation
-Research Part C Emerging Technologies, 80, 92-116.
-
-Bao, J., He, T., Ruan, S., Li, Y., & Zheng, Y. (2017). Planning
-Bike Lanes based on Sharing-Bikes' Trajectories. ACM
-SIGKDD International Conference on Knowledge Discovery
-and Data Mining (pp.1377-1386).
-
-
 
 ## Master project proposals (pending to be assigned)
 
