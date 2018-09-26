@@ -14,13 +14,12 @@ Ideas for master theses / projects
 ## Master projects done 
 
 ### Visualization and visual analytics of geospatial data for psychological treatment
-*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. In collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (EM student) in the period Sep 2017 - Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](http://repositori.uji.es/xmlui/handle/10234/173976). 
+*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. It was done in collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (2016-2018 EM student) during Sep 2017 - Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](http://repositori.uji.es/xmlui/handle/10234/173976). 
 
 ### Mental health app builder: a case study to battle addictions
-*EM Student*: Fanawani (Fana) Gebremeskel
+*EM Student*: Fanawani (Fana) Gebremeskel (2017-2019 EM student)
 
-*Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in
-depressive symptoms can be predicted with movement data remains yet unclear. 
+*Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in depressive symptoms can be predicted with movement data remains yet unclear. 
 
 *Summary*: In the field of health, the location and movements of a patient is a key resource for the treatment of mental disorders (e.g., depression, agoraphobia, gambling addictions, etc.). Surprisingly, even to date, psychologists mostly rely on pen and paper, asking the patient to meticulously write down their location, movement and habits. Despite the best intentions of the patient, such data is objective and incomplete. Furthermore, there is a delay between the data collection (usually daily), and data delivery and processing (usually during a weekly or bi-weekly session with the psychologist), and the treatment can thus only be adjusted/tailored to the data with the same delay.
 
