@@ -14,10 +14,10 @@ Ideas for master theses / projects
 ## Master projects done 
 
 ### Visualization and visual analytics of geospatial data for psychological treatment
-*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. It was done in collaboration with LABPSITEC. It was developed by Iskandaryan Ditsuhi (2016-2018 EM student) during Sep 2017 - Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](http://repositori.uji.es/xmlui/handle/10234/173976). 
+*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. It was done in collaboration with LABPSITEC. It was developed by EM student Iskandaryan Ditsuhi (2016-2018 promotion) from Sep 2017 to Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](http://repositori.uji.es/xmlui/handle/10234/173976). 
 
 ### Mental health app builder: a case study to battle addictions
-*EM Student*: Fanawani (Fana) Gebremeskel (2017-2019 EM student)
+*EM Student*: Fanawani (Fana) Gebremeskel (2017-2019 promotion), from Sep 2018 to Mar 2019
 
 *Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in depressive symptoms can be predicted with movement data remains yet unclear. 
 
@@ -36,9 +36,16 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
 
 ### Conceptualisation of mobility neighbourhoods through the lens of cyclists
+*EM Student*: Fabián Rodolfo Perotti (2017-2019 promotion), from Sep 2018 to Mar 2019
 
-*EM Student*: Fabián Rodolfo Perotti
+*Summary*: This master project is part of and is expected to contribute to a larger pproject called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
 
+*Methods*
+
+
+
+
+### Conceptualisation of mobility neighbourhoods through the lens of cyclists
 *Hypothesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
 
 *Summary*: Much research has put the focus on monitoring mobility behaviour in the sense of detecting differences in the mobility behaviour of distinct profiles of people (or types of transport modes). For example, locals and tourists move differently in a city, as each profile visits more frequently certain places and takes certain routes than the other. Or confronting taxis’ and private cars’ mobility. Assessing **where, when and how** a person travels and moves has been and is the aim of mobility behaviour. 
