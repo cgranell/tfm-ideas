@@ -35,14 +35,29 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 
 *Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
 
-### Conceptualisation of mobility neighbourhoods through the lens of cyclists
+### Bike sharing scheme and mobility  in Castellon
 *EM Student*: Fabián Rodolfo Perotti (2017-2019 promotion), from Sep 2018 to Mar 2019
 
-*Summary*: This master project is part of and is expected to contribute to a larger pproject called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
-
-*Methods*
+*Summary*: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes. The newly emergent and increasingly popular dockless bike sharing scheme provides new opportunities as well as challenges to non-motorised mobility studies. Because bikes are significantly more evenly distributed in urban spaces rather than only being available or having to be returned to docking stations. The spatiotemporal usage patterns and travel flows of dockless bikes are more complex to analyse compared with the more fixed docking station schemes. Existing studies of dockless bike sharing are very limited and have focused on the management of bike fleets (Palet al., 2017) or the planning of cycling infrastructures (Bao et al., 2017). 
 
 
+This master project is part of and is expected to contribute to a larger pproject called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
+
+*Methods*:
+
+*Related work*:
+Pal, A., & Zhang, Y. (2017). Free-floating bike sharing: solving
+real-life largescale static rebalancing problems. Transportation
+Research Part C Emerging Technologies, 80, 92-116.
+
+Bao, J., He, T., Ruan, S., Li, Y., & Zheng, Y. (2017). Planning
+Bike Lanes based on Sharing-Bikes' Trajectories. ACM
+SIGKDD International Conference on Knowledge Discovery
+and Data Mining (pp.1377-1386).
+
+
+
+## Master project proposals 
 
 
 ### Conceptualisation of mobility neighbourhoods through the lens of cyclists
@@ -61,7 +76,6 @@ The focus of this work is to explain the effect that geographic distance (or spe
 *Methods*: Theoretical approach, literature review, proof-of-concept 
 
 
-## Master project proposals 
 
 ### How diverse are my routes? Innovative visualisations of human trajectories (small multiples)
 
@@ -171,20 +185,6 @@ This project is part of a larger project called **Atlas of UJI: 10 key  visualis
  
 Status: pending
 
-
-Title: **Bike sharing scheme and tram/bus transport in Castellon**
-
-Summary: To understand the relationship, and the impact of events that happens between bike sharing and other transportation modes. The newly emergent and increasingly popular dockless bike sharing scheme provides new opportunities as well as challenges to non-motorised mobility studies. Because bikes
-are significantly more evenly distributed in urban spaces rather than only being available or having to be returned to docking stations. The spatiotemporal usage patterns and travel flows of dockless bikes are more complex to analyse compared with the more fixed docking station schemes. Existing studies of dockless bike sharing are very limited and have focused on the management of bike fleets (Palet al., 2017) or the planning of cycling infrastructures (Bao et al., 2017). This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
-
-Pal, A., & Zhang, Y. (2017). Free-floating bike sharing: solving
-real-life largescale static rebalancing problems. Transportation
-Research Part C Emerging Technologies, 80, 92-116.
-
-Bao, J., He, T., Ruan, S., Li, Y., & Zheng, Y. (2017). Planning
-Bike Lanes based on Sharing-Bikes' Trajectories. ACM
-SIGKDD International Conference on Knowledge Discovery
-and Data Mining (pp.1377-1386).
 
 Title: **From place of residence to place of activity: spatiotemporal mapping of population density**
 
