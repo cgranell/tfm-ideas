@@ -57,8 +57,7 @@ and Data Mining (pp.1377-1386).
 
 
 
-## Master project proposals 
-
+## Master project proposals (pending to be assigned)
 
 ### Conceptualisation of mobility neighbourhoods through the lens of cyclists
 *Hypothesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
@@ -74,8 +73,6 @@ The focus of this work is to explain the effect that geographic distance (or spe
 *Related work*: Literature on mobility, movement analysis, [thick mobility](thick) as mobility data (trajectories) can only mobilise people and change things when it becomes thick with social and contextual meaning. To link to Diego's open dataset of bicycle trips in cities.
 
 *Methods*: Theoretical approach, literature review, proof-of-concept 
-
-
 
 ### How diverse are my routes? Innovative visualisations of human trajectories (small multiples)
 
@@ -102,7 +99,7 @@ Resulting code will be integrated into an existing R library/package for innovat
 
 The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository) over the last 5 or 10 years, and in relation to the organisational structures in terms of institutional affiliation (faculty, department/institute, research group) and spatial configuration (building) inside the campus . This type of work has been traditionally explored through network theory. The novelty is to complement network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting application will take the form of a web-based Shiny application and R package.
 
-This project is part of an is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
+This project is part of and is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
 
 *Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
 
@@ -113,7 +110,7 @@ This project is part of an is expected to contribute to a larger project called 
 
 *Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
 
-This project is part of an is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
+This project is part of and is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
 
 *Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
 
@@ -157,11 +154,11 @@ Summary: Over the last few years, the world has gradually transformed from an ex
 Status: pending
 
 
-Title: **Georreferencing scholarly publications at UJI** 
+Title: **Georreferencing scholarly publications hosted in the UJI institucional repository** 
 
 Summary: To investigate distinct ways to georreference a research paper (title, keyworks, content, auuthors' affiliation) and create a visualisation tool to support visual analytics 
 
-This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+This project is part of and is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
 
 Related work: [GEOUP4](http://revistes.upc.edu/geoup4)
 Status: pending
@@ -181,7 +178,8 @@ Status: pending
 Title: **The geography of employability data**
 
 Summary: University Observatory
-This project is part of a larger project called **Atlas of UJI: 10 key  visualisations to explain the impact of UJI**
+
+This project is part of and is expected to contribute to a larger project called **Atlas of UJI: 10 data visualisations to explain the impact of UJI**
  
 Status: pending
 
@@ -204,15 +202,9 @@ Summary: [Europeana Collections](https://www.europeana.eu/) provides access to o
 Related: [MDPI IJGI Special Issue "Place-Based Research in GIScience and Geoinformatics"](http://www.mdpi.com/journal/ijgi/special_issues/place-based); [MDPI IJGI Special Issue "Data Acquisition and Processing in Cultural Heritage"](http://www.mdpi.com/journal/ijgi/special_issues/Cultural_Heritage_IJGI)
 
 
-Title: **Dynamics of mobility - Castellon**
+Title: **New use cases of Blockchain in GIScience**
 
-Summary: Based on bicicas matrix data, create a simulation that show the among of trips between dodge stations 
-
-
-Title: **New use case of Blockchain in GIScience**
-
-Summary: Look at blckchain.md file in RR folder.
-
+Summary: Look at blockchain.md file in RR folder.
 
 NOTE: A system to collect, organise and classify papers about a theme. Related Siabato's works: Siabato et al  (2017) [An Annotated Bibliography on Spatiotemporal Modelling Trends](https://www.graphyonline.com/archives/archivedownload.php?pid=IJEES-135). Int J Earth Environ Sci 2: 135; and 
 Siabato et al (2014). [TimeBliography: A Dynamic and Online Bibliography on Temporal GIS](https://doi.org/10.1111/tgis.12080 ). T GIS 18(6): 799-816
