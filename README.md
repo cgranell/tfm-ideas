@@ -81,32 +81,6 @@ Resulting code will be integrated into an existing R library/package for innovat
 
 *Methods*: programming, data visualisation, visual analytics, trajectories, diversity index. 
 
-
-### The geography of scholarly publications at UJI
-
-*Hypothesis*: Researcher's spatial position determines collaboration patterns. Do you work with your next door colleague? 
-
-*Summary*: Scholarly publication is a key indicator or variable for university decision makers as it determines to certain extent the degree of research, innovation and knowledge achieved by an individual, group, and even the entire institution. Rather than looking at scholarly publications as a metric to measure productive researchers or research groups, we attempt to explain scholarly publication taken a spatial perspective. Relevant questions that are of interest in this thesis are: What is the role and relevance of an individual’s spatial position on a campus? And that of a research group?.  
-
-The idea of the project is to examine the collaboration patterns of the research groups and faculties at UJI, through their academic output (papers available at the institutional repository) over the last 5 or 10 years, and in relation to the organisational structures in terms of institutional affiliation (faculty, department/institute, research group) and spatial configuration (building) inside the campus . This type of work has been traditionally explored through network theory. The novelty is to complement network theory with spatial distribution and mapping of intra-building and intra-department collaboration. Resulting application will take the form of a web-based Shiny application and R package.
-
-This project is part of and is expected to contribute to a larger project called **Where the UJIers go: 10 data visualisations to explain the impact of UJI**
-
-*Related work*: [An exploration of collaborative scientific production at MIT through spatial organization and institutional affiliation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179334)
-
-*Methods*: Network analysis, intra-building and intra-department collaboration, mapping and clustering building-level data, Local indicators of spatial association (LISA), geo big data    
-
-### EM GEOTEC and the World: 10-year traces of international students
-*Hypothesis*: Impact of EM GEOTEC is uniformly distributed over geographical areas/countries. 
-
-*Summary*: The idea is to design and generate a piece of visualisation in order to explore the spatial relationships, impacts, and coverage of past internacional students of the EM GEOTEC. Not only will we focus on the home countries of the students, but most importantly, on where they are now, to spatially and temporally explore their professional/academic career paths after graduation. The generated tool may definitively become an institutional  tool to regularly assess and verify the impact of the EM GEOTEC as future students  graduate.
-
-This project is part of and is expected to contribute to a larger project called **Where the UJIers go: 10 data visualisations to explain the impact of UJI**
-
-*Related work*: [MIT-World](http://senseable.mit.edu/mit-world)
-
-*Methods*: Network analysis, JavaScript programming, data visualisation, interactive and reactive programming, temporal dimension
-
 ## Others
 
 Title: **New interfaces for spatial operators for kids**
