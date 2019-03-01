@@ -1,5 +1,5 @@
 # tfm-ideas
-Ideas for master theses / projects    
+Ideas for master theses / projects. Ideas related to the **Geographies of UJI** are described in this repo [https://github.com/cgranell/geographies-of-ujiers]
 
 ## Research lines
 * Spatial analysis of playability areas and socio-economic aspects
