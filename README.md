@@ -50,6 +50,14 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 
 ## Master project proposals (pending to be assigned)
 
+### Impact of the Tobler’s first law of geography.
+
+*Summary*: Tobler passed away in 2018. He was a pioneer in the fields of cartography and GIS. The idea of this thesis proposal is to explore the literature (1970-today) that references or explicitly mentions [Waldo R. Tobler's](https://www.noozhawk.com/article/waldo_r._tobler_of_santa_barbara_1930_2018) first Law of Geography, to analyse their motives to do so, creating a network of influences of the Tobler law. In what application domains is Tobler's first law of Geography relevant? What is the temporal and spatial variability of the impact of this law? 
+
+*Related work*: [First Law of Geography](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399)
+
+*Methods*: literature review, critical review, bibliometric analysis, data visualisation, network analysis.
+
 ### Conceptualisation of mobility neighbourhoods through the lens of cyclists
 *Hypothesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
 
@@ -156,9 +164,6 @@ Summary: Population is a crucial variable for the social sciences, the geoscienc
 The location of population during the day is determined by the location of economic, social and leisure facilities which pull population off their residences, driving commuting flows and other forms of daily trips. Daytime population distribution thus varies greatly from night-time distribution, and it is much more challenging to infer.
 
 Related: ENACT project (“ENhancing ACTivity and population mapping”), https://ec.europa.eu/jrc/en/publication/enhancing-activity-and-population-mapping-exploratory-research-project-interim-report
-
-Title: **Impact of the Tobler’s first law of geography (Tobler, 1970)**.
-Summary: Explore the literature works (1970-today) that reference or explicitly mention Tobler Law, and analyse their motives to do so, creating a network of influences of the Tobler law. In what application domanis is Tobler's first law of geography mention? What is the variability of the impact of this law? [Waldo R. Tobler](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399)
 
 Title: **Europeana - Platial analysis, processing and visualisation**
 
