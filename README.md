@@ -14,39 +14,15 @@ Ideas for master theses / projects. Ideas related to the **Geographies of UJI** 
 ## Master projects done 
 
 ### Visualization and visual analytics of geospatial data for psychological treatment
-*Summary*: a visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. It was done in collaboration with LABPSITEC. It was developed by EM student Iskandaryan Ditsuhi (2016-2018 promotion) from Sep 2017 to Mar 2018, with the title [Visualization and visual analytics of geospatial data for psychological treatment](http://repositori.uji.es/xmlui/handle/10234/173976). 
+*Summary*: A visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. It was done in collaboration with LABPSITEC. EM student Iskandaryan Ditsuhi (2016-2018 promotion), from Sep 2017 to Mar 2018, developed and successfully defended her [master thesis](http://repositori.uji.es/xmlui/handle/10234/173976). 
 
-### Mental health app builder: a case study to battle addictions
-*EM Student*: Fanawani (Fana) Gebremeskel (2017-2019 promotion), from Sep 2018 to Mar 2019
+### Connecting addicted patients and therapists based on gps for providing context-aware notification
+*Summary*: The thesis proposes an extension to the [Symptoms](http://geotec.uji.es/projects/SyMptOMS/) platform in two ways: on one hand, it allows location- and time-based triggered questionnaires to further assess the patients psychological state in-situ and in real time; and, on the other hand, the developed tool extends the current location-based notifications system of the platform to use the same context—based triggers to further assist psychotherapeutic interventions. Furthermore, the web application is extended to collect, store and visualize the feedback sent by the patients to support therapists to make informed decisions. EM student Fanawani (Fana) Gebremeskel (2017-2019 promotion), from Sep 2018 to Mar 2019, developed and successfully defended her [master thesis]()
 
-*Hypothesis*: Location patterns from patients's phone sensors are correlated with depressive symptoms. In other words, the extent to which changes in depressive symptoms can be predicted with movement data remains yet unclear. 
+### Mapping the real character of Castellón (meaningful clusters) though the lens of cycling flows 
 
-*Summary*: In the field of health, the location and movements of a patient is a key resource for the treatment of mental disorders (e.g., depression, agoraphobia, gambling addictions, etc.). Surprisingly, even to date, psychologists mostly rely on pen and paper, asking the patient to meticulously write down their location, movement and habits. Despite the best intentions of the patient, such data is objective and incomplete. Furthermore, there is a delay between the data collection (usually daily), and data delivery and processing (usually during a weekly or bi-weekly session with the psychologist), and the treatment can thus only be adjusted/tailored to the data with the same delay.
-
-Using modern technologies, the cycle of data collection - data delivery - data processing/interpretation can be significantly improved. First, the use of mobile technologies (i.e., GPS, ubiquitous internet connectivity) allows to accurately track and store user’s location and trajectories, and also to interact, in real-time, with the user (i.e., notifications). Second, GIS technologies allow to analyse and interpret the obtained mobility data, and take appropriate actions (e.g., geo-fencing, trajectory analysis, etc.). Third, visualisation and visual analytics allows to visualise and interpret the data in such a way that it specifically support treatments of a mental disorder.
-
-The objective of this thesis is to develop a case study to test the mental health app builder to treat addictions. This includes gathering and understanding the requirements of such an app, generating the app using the mental health app builder, adding new features - if needed - to the mental health app builder, testing the generated app with therapists (access to psychologists/therapists is available). 
-
-We hereby note that, for the requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
-
-*Methods*: Location analysis, JavaScript programming, data visualisation, (possibly Android programming)
-
-*Related work*: At GEOTEC, we developed a mental health app builder, a application generation framework accessible via a web interface, that allows health professionals to generate a mobile application for the treatment of a particular mental disorder. The framework therefore offers some basic geospatial building blocks (location tracking, trajectory recording, geo-fencing), communication building blocks (notifications) and a basic visualisation of collected data by therapists (map-based view). The framework has been successfully tested to build an app to treat depression.
-
-*Notes*: For the tasks of requirements gathering, testing and experiments, access to psychologists/therapists is available through GEOTEC collaboration with LABPSYTECH, a group of psychologists/therapists at UJI. This thesis is performed in close cooperation with the creator of the mental health app builder, who will assist with any extensions needed.
-
-### Mapping the real character of Castellón (meaningful clusters) though the lens of cycling flows and user-generated POIs 
 *EM Student*: Fabián Rodolfo Perotti (2017-2019 promotion), from Sep 2018 to Mar 2019
 
-*Hypothesis*: Urban boundaries derived from cycling flows and social POIs reflect better the socio-economic-mobility reality / character of Castellon than the artificial administrative units.
-
-*Summary*: This TFM is aimed to explore to what extent administrative units and emerging socio-economic-mobility clusters in Castellón are disconnected, taking as primary source flows of bike travels along with other urban data sources. Expected results are the identification and mapping of meaningful socio-economic-mobility clusters that better reflect the character of the city of Castellon.
-
-*Context*: This project is part of and is expected to contribute to a larger project called **Where the UJIers go: 10 data visualisations to explain the impact of UJI**. This TFM is intended to find or formulate new questions about (social) pressing issues in urban contexts. Seeing a problem from the geographical dimension can help to understand it better and find novel ways to tackle it. This TFM should also embrace research reproducibility practices.
-
-*Methods*:
-
-*Related work*:
 
 ## Master project proposals (pending to be assigned)
 
@@ -57,6 +33,21 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 *Related work*: [First Law of Geography](https://www.tandfonline.com/doi/10.2307/143141)
 
 *Methods*: literature review, critical review, bibliometric analysis, data visualisation, network analysis.
+
+
+### Mapping the real character of Castellón (meaningful clusters) though the lens of cycling flows and user-generated POIs 
+
+*Hypothesis*: Urban boundaries derived from cycling flows and social POIs reflect better the socio-economic-mobility reality / character of Castellon than the artificial administrative units.
+
+*Summary*: This TFM is aimed to explore to what extent administrative units and emerging socio-economic-mobility clusters in Castellón are disconnected, taking as primary source flows of bike travels along with other urban data sources. Expected results are the identification and mapping of meaningful socio-economic-mobility clusters that better reflect the character of the city of Castellon.
+
+*Context*: This project is part of and is expected to contribute to a larger project called **The Geographies of UJIers**. This TFM is intended to find or formulate new questions about (social) pressing issues in urban contexts. Seeing a problem from the geographical dimension can help to understand it better and find novel ways to tackle it. This TFM should also embrace research reproducibility practices.
+
+*Methods*: Analysis 
+
+*Related work*: Built on top of Fabian's thesis, who did a big effort to collect and clean bike mobility data in Castellón. 
+
+
 
 ### Conceptualisation of mobility neighbourhoods through the lens of cyclists
 *Hypothesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
