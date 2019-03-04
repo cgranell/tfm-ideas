@@ -52,9 +52,9 @@ We hereby note that, for the requirements gathering, testing and experiments, ac
 
 ### Impact of the Tobler’s first law of geography.
 
-*Summary*: Tobler passed away in 2018. He was a pioneer in the fields of cartography and GIS. The idea of this thesis proposal is to explore the literature (1970-today) that references or explicitly mentions [Waldo R. Tobler's](https://www.noozhawk.com/article/waldo_r._tobler_of_santa_barbara_1930_2018) first Law of Geography, to analyse their motives to do so, creating a network of influences of the Tobler law. In what application domains is Tobler's first law of Geography relevant? What is the temporal and spatial variability of the impact of this law? 
+*Summary*: [Waldo R. Tobler passed away in 2018](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399). He was a pioneer in the fields of cartography and GIS. The idea of this thesis proposal is to explore the literature (1970-today) that references or explicitly mentions Tobler's first Law of Geography, *everything is related to everything else, but near things are more related than distant things*, to analyse their motives to do so, creating a network of influences of the Tobler law. In what application domains is Tobler's first law of Geography relevant? What is the temporal and spatial variability of the impact of this law? 
 
-*Related work*: [First Law of Geography](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399)
+*Related work*: [First Law of Geography](https://www.tandfonline.com/doi/10.2307/143141)
 
 *Methods*: literature review, critical review, bibliometric analysis, data visualisation, network analysis.
 
