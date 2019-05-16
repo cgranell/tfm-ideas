@@ -10,7 +10,8 @@ Ideas for master theses / projects. Look also in the [Geographies of UJI](https:
 * [Community experiments](https://experiments.withgoogle.com/)
 * [Objectifier Spatial Programming (OSP)](https://experiments.withgoogle.com/ai/objectifier-spatial-programming)
 * [Visualizing High-Dimensional Space](https://experiments.withgoogle.com/ai/visualizing-high-dimensional-space)
- 
+* [Creative Applications Networks](https://www.creativeapplications.net/)
+
 ## Master projects done 
 
 ### Visualization and visual analytics of geospatial data for psychological treatment
