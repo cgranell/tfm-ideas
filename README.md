@@ -17,23 +17,14 @@ Ideas for master theses / projects. Look also in the [Geographies of UJI](https:
 ### Visualization and visual analytics of geospatial data for psychological treatment
 *Summary*: A visualization tool based on Luis' metric analytical framework, which is aimed to better interpret the results of interventions in the treatment of certain psychological disorders such as Agoraphobia or Depression. It was done in collaboration with [LABPSITEC](http://www.labpsitec.uji.es/). From Sep 2017 to Mar 2018, EM student *Iskandaryan Ditsuhi* (2016-2018 promotion) developed and successfully defended her [master thesis](http://repositori.uji.es/xmlui/handle/10234/173976). 
 
-### Connecting addicted patients and therapists based on gps for providing context-aware notification
-*Summary*: The thesis proposes an extension to the [Symptoms](http://geotec.uji.es/projects/SyMptOMS/) platform in two ways: on one hand, it allows location- and time-based triggered questionnaires to further assess the patients psychological state in-situ and in real time; and, on the other hand, the developed tool extends the current location-based notifications system of the platform to use the same context—based triggers to further assist psychotherapeutic interventions. Furthermore, the web application is extended to collect, store and visualize the feedback sent by the patients to support therapists to make informed decisions. It was done in collaboration with [LABPSITEC](http://www.labpsitec.uji.es/). From Sep 2018 to Mar 2019, EM student *Fanawani (Fana) Gebremeske*l (2017-2019 promotion) developed and successfully defended her [master thesis]().
+### Connecting addicted patients and therapists based on GPS for providing context-aware notification
+*Summary*: The thesis proposes an extension to the [Symptoms](http://geotec.uji.es/projects/SyMptOMS/) platform in two ways: on one hand, it allows location- and time-based triggered questionnaires to further assess the patients psychological state in-situ and in real time; and, on the other hand, the developed tool extends the current location-based notifications system of the platform to use the same context—based triggers to further assist psychotherapeutic interventions. Furthermore, the web application is extended to collect, store and visualize the feedback sent by the patients to support therapists to make informed decisions. It was done in collaboration with [LABPSITEC](http://www.labpsitec.uji.es/). From Sep 2018 to Mar 2019, EM student *Fanawani (Fana) Gebremeske* (2017-2019 promotion) developed and successfully defended her [master thesis](http://repositori.uji.es/xmlui/handle/10234/182271).
 
-### Spatial analysis of cyclist mobility patterns using geo-visualization to improve public bike-share system in a small size city) though the lens of cycling flows 
-*Summary*: The focus of the proposed thesis is to perform an analysis of the cyclist mobility patterns (co-location, concentration or periodicity) using the data provided by the [Bicicas provider](https://www.bicicas.es/) in Castellón. Tthis thesis approaches the mobility issue from a geographical perspective to find novel ways to tackle it. In particular, It provides a new perspective of the mobility patterns of cyclists in Castellón through inetractive mapas and simulations, in order to understand and explore the movement within the city and determine how visual and descriptive analysis could be used to enhance the local bike-share system.  Lastly, the thesis also takes into account [research reproducibility practices](https://peerj.com/articles/5072/). From Sep 2018 to Mar 2019, EM student *Fabián Rodolfo Perotti* (2017-2019 promotion) developed and successfuly defended his [master thesis]().
-
-## Master project proposals (pending to be assigned)
-
-### Impact of the Tobler’s first law of geography.
-
-*Summary*: [Waldo R. Tobler passed away in 2018](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399). He was a pioneer in the fields of cartography and GIS. The idea of this thesis proposal is to explore the literature (1970-today) that references or explicitly mentions Tobler's first Law of Geography, *everything is related to everything else, but near things are more related than distant things*, to analyse their motives to do so, creating a network of influences of the Tobler law. In what application domains is Tobler's first law of Geography relevant? What is the temporal and spatial variability of the impact of this law? 
-
-*Related work*: [First Law of Geography](https://www.tandfonline.com/doi/10.2307/143141)
-
-*Methods*: literature review, critical review, bibliometric analysis, data visualisation, network analysis.
+### Spatial analysis of cyclist mobility patterns using geo-visualization to improve public bike-share system in a small size city
+*Summary*: The focus of the proposed thesis is to perform an analysis of the cyclist mobility patterns (co-location, concentration or periodicity) using the data provided by the [Bicicas provider](https://www.bicicas.es/) in Castellón. Tthis thesis approaches the mobility issue from a geographical perspective to find novel ways to tackle it. In particular, It provides a new perspective of the mobility patterns of cyclists in Castellón through inetractive mapas and simulations, in order to understand and explore the movement within the city and determine how visual and descriptive analysis could be used to enhance the local bike-share system.  Lastly, the thesis also takes into account [research reproducibility practices](https://peerj.com/articles/5072/). From Sep 2018 to Mar 2019, EM student *Fabián Rodolfo Perotti* (2017-2019 promotion) developed and successfuly defended his [master thesis](http://repositori.uji.es/xmlui/handle/10234/182270).
 
 ### Geo-narratives to communicate the true mobility character of cycling flows in Castellón. 
+From Sep 2019 to Mar 2020, EM student *Braundt Sin Ki Lau* (2018-2020 promotion)
 
 *Hypothesis*: How cyclists move in Castellon is largely unknown.
 
@@ -49,6 +40,18 @@ Ideas for master theses / projects. Look also in the [Geographies of UJI](https:
 http://www.mdpi.com/2413-8851/1/3/23)
 * [MIT | Cityways Unveiling Recreational Movement in Urban Areas](http://senseable.mit.edu/cityways/)
 * Nice maps compostions to tell visual narratives, e.g. [Maps: Tracking Harvey’s Destructive Path Through Texas and Louisiana](https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html)
+
+## Master project proposals (pending to be assigned)
+
+### Impact of the Tobler’s first law of geography.
+
+*Summary*: [Waldo R. Tobler passed away in 2018](https://www.tandfonline.com/doi/full/10.1080/15230406.2018.1447399). He was a pioneer in the fields of cartography and GIS. The idea of this thesis proposal is to explore the literature (1970-today) that references or explicitly mentions Tobler's first Law of Geography, *everything is related to everything else, but near things are more related than distant things*, to analyse their motives to do so, creating a network of influences of the Tobler law. In what application domains is Tobler's first law of Geography relevant? What is the temporal and spatial variability of the impact of this law? 
+
+*Related work*: [First Law of Geography](https://www.tandfonline.com/doi/10.2307/143141)
+
+*Methods*: literature review, critical review, bibliometric analysis, data visualisation, network analysis.
+
+
 
 ### Conceptualisation of mobility neighbourhoods through the lens of cyclists
 *Hypothesis*: Mobility is a multi-dimensional, multi-faceted concept that may lead to multiple interpretations. 
